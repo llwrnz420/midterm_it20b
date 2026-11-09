@@ -1,8 +1,6 @@
 package parkingmanagementapp;
 
-/**
- * Custom Data Structure Node (No java.util used)
- */
+
 public class VehicleNode {
     String plateNumber;
     String vehicleType;
